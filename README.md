@@ -1,2 +1,4 @@
 # Emecx
-Emecx - Automated Bulk Email Sender
+Emecx - Automated Email Sender
+
+with Python

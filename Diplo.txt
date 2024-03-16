@@ -1,0 +1,1 @@
+This is a sample message to demonstrate the working of the automated email sender. 

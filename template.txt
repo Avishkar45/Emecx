@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <p>Hi {name},<br>
+       {Greeting} How are you?<br>
+       I am {Agent} from {Company}.<br>
+       We Really Miss you!<br> 
+       Please Check Out Our New LIne of Products<br>
+       <a href= {link} > Google </a> 
+       We hope You provide your valuable Feedback.<br>
+       Regards
+       {Agent}
+      </p>
+     </body>
+</html>
